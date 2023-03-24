@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "maxLik"]
+	path = maxLik
+	url = https://github.com/cran/maxLik
+	shallow = true
+	registered = true
